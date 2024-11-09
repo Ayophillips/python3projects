@@ -1,0 +1,74 @@
+[
+    {
+        "title": "The Harder They Fall",
+        "category": "movie"
+    },
+    {
+        "title": "Mea Culpa",
+        "category": "movie"
+    },
+    {
+        "title": "The Greatest Showman",
+        "category": "movie"
+    },
+    {
+        "title": "Tangled",
+        "category": "animation"
+    },
+    {
+        "title": "Wreck it Ralph",
+        "category": "animation"
+    },
+    {
+        "title": "The Princess and the Frog",
+        "category": "animation"
+    },
+    {
+        "title": "Young Sheldon",
+        "category": "tv show"
+    },
+    {
+        "title": "Bridgerton",
+        "category": "tv show"
+    },
+    {
+        "title": "The Glory",
+        "category": "tv show"
+    },
+    {
+        "title": "Good Will Hunting",
+        "category": "movie"
+    },
+    {
+        "title": "The Breakfast Club",
+        "category": "movie"
+    },
+    {
+        "title": "Kingsman",
+        "category": "movie"
+    },
+    {
+        "title": "Rick and Morty",
+        "category": "animation"
+    },
+    {
+        "title": "Blue eye samurai",
+        "category": "animation"
+    },
+    {
+        "title": "The legend of Vox Machina",
+        "category": "animation"
+    },
+    {
+        "title": "Suits",
+        "category": "tv show"
+    },
+    {
+        "title": "Marvelous Mrs Maisel",
+        "category": "tv show"
+    },
+    {
+        "title": "The Fresh Prince of BelAir",
+        "category": "tv show"
+    }
+]
